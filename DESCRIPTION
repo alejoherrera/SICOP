@@ -1,0 +1,14 @@
+Package: SICOP
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Alejandro Herrera (CGR-Costa Rica)
+Maintainer: The package maintainer <alejandro.herrera@cgr.go.cr>
+Description: Analisis de datos del sistema de compras SICOP, Costa Rica.
+License: GPL-2 
+Encoding: UTF-8
+LazyData: false
+Imports: 
+    sqldf,
+    RSQLite
+RoxygenNote: 6.1.1
